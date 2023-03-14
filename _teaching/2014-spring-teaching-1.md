@@ -7,7 +7,7 @@ venue: "University 1, Department"
 date: 2021-06-30
 location: "Wuhan, China"
 ---
-<img src='ZhangliangLi/web/images/profile.png'>
+<img src='ZhangliangLi/web/images/3953273590_704e3899d5_m'>
 
 Designed a truss robot system with high-speed and high-precision position control using SolidWorks and ANSYS Workbench
 ======
