@@ -13,7 +13,6 @@ Education
 ======
 * B.S. in Mechanical Eng, Wuhan University of Technology, China, 2017
 * M.S. in Mechanical Eng, Washington University in St.louis, Missouri, 2023(expected)
-* 
 
 TECHNICAL SKILLS 
 ======
