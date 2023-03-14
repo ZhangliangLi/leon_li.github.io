@@ -34,4 +34,4 @@ TECHNICAL SKILLS
   * Quality Control
 
 
-[Download full CV here](https://files/cv.pdf)
+[Download full CV here](https://zhangliangli.github.io/web/files/cv.pdf)
