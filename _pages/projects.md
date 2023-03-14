@@ -25,9 +25,12 @@ div.a img{
 <div class="a">
 	<img src="https://github.com/ZhangliangLi/web/blob/master/images/truss.png" alt="Image" height="400" width="500">
 </div>
+
 <div class="a">
 	<img src="https://github.com/ZhangliangLi/web/blob/master/images/truss2.png" alt="Image" height="500" width="500">
+	
 </div>
+
 <div class="a">
 	<img src="https://github.com/ZhangliangLi/web/blob/master/images/truss3.png" alt="Image" height="400" width="500">
 </div>
