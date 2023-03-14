@@ -1,20 +1,19 @@
 ---
-title: "Teaching experience 1"
+title: "Truss Design Robot System Structural Design"
 collection: teaching
-type: "Undergraduate course"
+type: "Wuhan University of Technology"
 permalink: /teaching/2014-spring-teaching-1
 venue: "University 1, Department"
-date: 2014-01-01
-location: "City, Country"
+date: 2021-06-30
+location: "Wuhan, China"
 ---
+<img src='ZhangliangLi/web/images/profile.png'>
 
-This is a description of a teaching experience. You can use markdown like any other post.
-
-Heading 1
+Designed a truss robot system with high-speed and high-precision position control using SolidWorks and ANSYS Workbench
 ======
 
-Heading 2
+Performed static finite element analysis to generate cloud diagrams of the truss robot's equivalent stress and displacement
 ======
 
-Heading 3
+Achieved a refined design with a truss robot system that could reach 0.5m/s running speed with positioning accuracy within 0.1mm
 ======
