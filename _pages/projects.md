@@ -12,9 +12,25 @@ Truss Design Robot System Structural Design
 
 *Achieved a refined design with a truss robot system that could reach 0.5m/s running speed with positioning accuracy within 0.1mm
 
-<img src="https://github.com/ZhangliangLi/web/blob/master/images/truss.png" alt="Image" height="400" width="500">
-<img src="https://github.com/ZhangliangLi/web/blob/master/images/truss2.png" alt="Image" height="400" width="500">
-<img src="https://github.com/ZhangliangLi/web/blob/master/images/truss3.png" alt="Image" height="400" width="500">
+div.a{
+	border: 1px solid saddlebrown;
+	display: flex;
+	justify-content: space-around;
+	align-items: center;
+}
+div.a img{
+	border: 1px solid red;
+}
+
+<div class="a">
+	<img src="https://github.com/ZhangliangLi/web/blob/master/images/truss.png" alt="Image" height="400" width="500">
+</div>
+<div class="a">
+	<img src="https://github.com/ZhangliangLi/web/blob/master/images/truss2.png" alt="Image" height="500" width="500">
+</div>
+<div class="a">
+	<img src="https://github.com/ZhangliangLi/web/blob/master/images/truss3.png" alt="Image" height="400" width="500">
+</div>
 
 Fluid Dynamics in Covid-19    
 =======
