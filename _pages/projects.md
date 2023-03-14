@@ -11,16 +11,6 @@ Truss Design Robot System Structural Design
 *Performed static finite element analysis to generate cloud diagrams of the truss robot's equivalent stress and displacement
 
 *Achieved a refined design with a truss robot system that could reach 0.5m/s running speed with positioning accuracy within 0.1mm
-
-	<img src="https://github.com/ZhangliangLi/web/blob/master/images/truss.png" alt="Image" height="400" width="500">
-
-	<img src="https://github.com/ZhangliangLi/web/blob/master/images/truss2.png" alt="Image" height="500" width="500">
-
-	<img src="https://github.com/ZhangliangLi/web/blob/master/images/truss3.png" alt="Image" height="400" width="500">
-	
-	<img src="https://github.com/ZhangliangLi/web/blob/master/images/3953273590_704e3899d5_m.jpg" alt="Image" height="400" width="500">
-	
-	<img src="https://user-images.githubusercontent.com/71891452/223977059-32441257-9ecc-4ea7-858d-20876facb5e7.png" alt="Image" height="202" width="509">
 	
 
 Fluid Dynamics in Covid-19    
