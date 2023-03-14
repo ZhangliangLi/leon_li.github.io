@@ -16,4 +16,4 @@ Fluid Dynamics in Covid-19
 *Analyzed particle motion trajectory using ANSYS platform to measure the effectiveness of wearing a mask in restricting the spread of COVID-19.
 *Co-authored a published paper titled "The Effects of Whether Wearing the Mask in the Spreading Process of COVID-19."
 
-#<img src="https://github.com/ZhangliangLi/web/blob/b750328a59f4e56a0feb003e5297c30438b275ae/images/3953273590_704e3899d5_m.jpg" alt="Image" height="202" width="509">
+# <img src="https://github.com/ZhangliangLi/web/blob/b750328a59f4e56a0feb003e5297c30438b275ae/images/" alt="Image" height="202" width="509">
