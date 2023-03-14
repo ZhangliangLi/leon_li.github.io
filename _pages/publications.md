@@ -5,12 +5,6 @@ permalink: /publications/
 author_profile: true
 ---
 
-{% if author.googlescholar %}
-  You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
-{% endif %}
+[1]Junyi Lin, Sharui Zhang, ***Zhangliang Li**. "The Effects of Whether Wearing the Mask in the Spreading Process of COVID-19."<i> International Core Journal of Engineering.</i> Full text at <a href="https://dx.doi.org/10.6919/ICJE.202012_6(12).0025"></a>
 
-{% include base_path %}
-
-{% for post in site.publications reversed %}
-  {% include archive-single.html %}
-{% endfor %}
+[2] Cunzhong Li, ***Zhangliang Li**, Haoran Wang, Guorong Zhu, and Huai Wang. "Multi-objective Optimization of Capacitor Bank Considering the Parasitic Parameters of Capacitors."<i> 8th Renewable Power Generation Conference (RPG 2019), Shanghai.</i> Full text at <a href="https://digital-library.theiet.org/content/conferences/10.1049/cp.2019.0677"></a>

@@ -11,49 +11,27 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.S. in Mechanical Eng, Wuhan University of Technology, China, 2017
+* M.S. in Mechanical Eng, Washington University in St.louis, Missouri, 2023(expected)
+* 
 
-Work experience
+TECHNICAL SKILLS 
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Programming Language:
+  * C++
+  * Java
+  * SolidWorks
+  * CAD
+  * ANSYS
+  * MATLAB
+* Mechanical Engineer:
+  * Material Testing and Analysis
+  * Finite Element Analysis (FEA)
+  * Failure Analysis, Corrosion and Wear
+  * Material Processing and Selection
+  * Composite Materials
+  * Product Development
+  * Quality Control
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
 
-Publications
-======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+[Download full CV here](https://files/cv.pdf)
