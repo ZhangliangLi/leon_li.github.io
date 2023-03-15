@@ -16,5 +16,3 @@ I'm proficient in various mechanical modeling and programming tools, such as Sol
 
 I'm passionate about exploring new challenges and contributing my skills and knowledge to the industry. If you have any job opportunities that align with my experience and skills, please do not hesitate to contact me.
 
-
-<img src="https://github.com/ZhangliangLi/web/blob/59bf8876f6b05ad7f8656fc81d5ec2fd9bb75e21/images/truss.png" alt="Image" height="500" width="500">
