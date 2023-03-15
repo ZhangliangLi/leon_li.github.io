@@ -22,6 +22,5 @@ Fluid Dynamics in Covid-19
 
 *Co-authored a published paper titled "The Effects of Whether Wearing the Mask in the Spreading Process of COVID-19."
 
-Full papar at <i>[International Core Journal of Engineering](https://dx.doi.org/10.6919/ICJE.202012_6(12).0025)</i>
-<img src="https://github.com/ZhangliangLi/web/blob/59bf8876f6b05ad7f8656fc81d5ec2fd9bb75e21/images/truss.png" alt="Image" height="500" width="500">
+Full paper at <i>[International Core Journal of Engineering](https://dx.doi.org/10.6919/ICJE.202012_6(12).0025)</i>
 
