@@ -24,3 +24,4 @@ Fluid Dynamics in Covid-19
 
 Full paper at <i>[International Core Journal of Engineering](https://dx.doi.org/10.6919/ICJE.202012_6(12).0025)</i>
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eIpGOH9aZqM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
