@@ -15,3 +15,6 @@ I'm actively seeking full-time job opportunities in the mechanical engineering f
 I'm proficient in various mechanical modeling and programming tools, such as SolidWorks, AutoCAD, C++, Java, and Mathlab. In addition to my technical skills, I possess excellent problem-solving and critical thinking abilities, which have helped me succeed in various engineering projects.
 
 I'm passionate about exploring new challenges and contributing my skills and knowledge to the industry. If you have any job opportunities that align with my experience and skills, please do not hesitate to contact me.
+
+
+<img src="https://github.com/ZhangliangLi/web/blob/59bf8876f6b05ad7f8656fc81d5ec2fd9bb75e21/images/truss.png" alt="Image" height="500" width="500">
