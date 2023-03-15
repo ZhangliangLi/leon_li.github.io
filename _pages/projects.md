@@ -13,6 +13,7 @@ Truss Design Robot System Structural Design
 *Achieved a refined design with a truss robot system that could reach 0.5m/s running speed with positioning accuracy within 0.1mm
 
 ![truss](https://user-images.githubusercontent.com/127815848/225195466-69503621-de90-4037-8bb5-d6e378af91d4.png)
+
 ![truss2](https://user-images.githubusercontent.com/127815848/225196091-acaa3098-3b84-41fc-98e2-f2f78ed9303e.png)
 ![truss3](https://user-images.githubusercontent.com/127815848/225196105-8e8a0368-3119-4b32-bbe1-39cc4e815844.png)	
 
