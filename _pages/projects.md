@@ -18,14 +18,8 @@ Truss Design Robot System Structural Design
 <img src="https://user-images.githubusercontent.com/127815848/225196091-acaa3098-3b84-41fc-98e2-f2f78ed9303e.png" alt="Image" height="400" width="400">
 <img src="https://user-images.githubusercontent.com/127815848/225196105-8e8a0368-3119-4b32-bbe1-39cc4e815844.png" alt="Image" height="400" width="400">
 
-Fluid Dynamics in Covid-19    
-=======
-*Collaborated on a research project to measure the effectiveness of wearing a mask in restricting the spread of COVID-19.
 
-*Analyzed particle motion trajectory using ANSYS platform to measure the effectiveness of wearing a mask in restricting the spread of COVID-19.
+[Download full paper here (Chinese version)](https://github.com/ZhangliangLi/web/blob/master/files/0121704940636-%E6%9D%8E%E7%AB%A0%E8%89%AF-%E4%B8%89%E5%9D%90%E6%A0%87%E6%9C%BA%E5%99%A8%E4%BA%BA%E7%BB%93%E6%9E%84%E8%AE%BE%E8%AE%A1.docx)
 
-*Co-authored a published paper titled "The Effects of Whether Wearing the Mask in the Spreading Process of COVID-19."
-
-Full paper at <i>[International Core Journal of Engineering](https://dx.doi.org/10.6919/ICJE.202012_6(12).0025)</i>
 
 
