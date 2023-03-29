@@ -20,6 +20,8 @@ Truss Design Robot System Structural Design
 
 
 [Download full paper here (Chinese version)](https://github.com/ZhangliangLi/web/blob/master/files/Paper.pdf)
+
+
 [Download all modeling documents here](https://github.com/ZhangliangLi/Solidworks-model)
 
 
