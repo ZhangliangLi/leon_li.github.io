@@ -18,7 +18,6 @@ WORK EXPERIENCES
 ======
 CRRC MA, Springfield, MA, US    
 Configuration Engineer
-======
 * Manage, review, and maintain all changes to CRRC MA Configuration Management System.
 * Responsible for day-to-day activities of the configuration management process, including prioritization and work allocation, ensuring all deliverables are completed on time.
 * Develop, maintain, and track compliance with configuration management policies and procedures. Responsible for resolving and escalating any compliance issues as necessary for leadership review.
