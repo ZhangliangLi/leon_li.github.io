@@ -15,6 +15,7 @@ Education
 * B.S. in Mechanical Eng, Wuhan University of Technology, China, 2017
 
 WORK EXPERIENCES
+======
 CRRC MA, Springfield, MA, US    
 Configuration Engineer
 ======
