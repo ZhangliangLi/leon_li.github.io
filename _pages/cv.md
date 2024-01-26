@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+title:
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-Education
+EDUCATION
 ======
 * M.S. in Mechanical Eng, Washington University in St.louis, Missouri, 2023
 * B.S. in Mechanical Eng, Wuhan University of Technology, China, 2017
